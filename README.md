@@ -1,3 +1,4 @@
+![Portfolio Thumbnail](https://github.com/MegumiSV/Megumi-Souvatzis/issues/1#issue-5035614080)
 # Hi there, I'm Megumi 👋
 ### 🌐 Japanese–English Localization Specialist | Translator  
 ### ⚙️ Workflow Optimization & Productivity Tools (Teams / Planner / SharePoint)
