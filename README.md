@@ -44,9 +44,6 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 ## 📚 Featured Projects & Achievements
 
 ### 🔤 Localization Projects
-- **Game UI/UX Localization**  
-  Delivered natural, culturally appropriate English/Japanese for game interfaces, improving user comprehension and engagement.
-
 - **Technical Documentation Translation**  
   Translated complex technical materials with high accuracy, reducing support inquiries and improving product usability.
 
@@ -82,9 +79,6 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 ---
 
 ## 💻 Tech Stack
-
-### Localization & Translation
-- Trados / memoQ / Memsource  
 
 ### Workflow & Productivity
 - Microsoft Teams  
