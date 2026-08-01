@@ -85,8 +85,6 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 
 ### Localization & Translation
 - Trados / memoQ / Memsource  
-- Xbench / Verifika  
-- Glossary / Termbase management
 
 ### Workflow & Productivity
 - Microsoft Teams  
@@ -104,9 +102,9 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 
 ## 📫 Contact
 
-- **LinkedIn:** (Add your profile link)  
+- **LinkedIn:** (www.linkedin.com/in/megumi-souvatzis21)  
 - **GitHub:** (Add your GitHub link)  
-- **Email:** (Optional)
+- **Email:** (mmegumemim@gmail.com)
 
 ---
 
