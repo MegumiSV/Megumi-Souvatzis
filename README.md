@@ -59,7 +59,7 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 
 - **Teams × Planner Progress Visualization System**  
   - Centralized task tracking for multi‑member teams  
-  - Reduced “情報が散らばる問題” by consolidating updates  
+  - Reduced information fragmentation by consolidating updates  
   - Improved transparency and reduced follow‑up communication by 30–40%
 
 - **Operational Portal Development (SharePoint)**  
