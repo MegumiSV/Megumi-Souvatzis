@@ -9,10 +9,10 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 
 ## 🧩 Professional Summary
 
-- 10+ years of experience in **Japanese–English localization**, translation, and cross‑cultural communication  
-- Proven ability to **improve workflow efficiency** through Teams, Planner, and SharePoint portal development  
-- Strong track record of delivering **accurate, natural, culturally aware language** for global audiences  
-- Skilled in creating **clear documentation**, bilingual materials, and polished English for official communication  
+- Over a decade of experience in Japanese–English localization, translation, and cross‑cultural communication  
+- Proven ability to improve workflow efficiency through Teams, Planner, and SharePoint portal development  
+- Strong track record of delivering **accurate, natural, culturally aware language for global audiences  
+- Skilled in creating clear documentation, bilingual materials, and polished English for official communication  
 - Known for building systems that reduce confusion, centralize information, and streamline team collaboration
 
 ---
