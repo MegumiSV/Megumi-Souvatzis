@@ -53,7 +53,31 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
----
+## 🗂️ Portal Structure Overview
+
+This section showcases the architecture of the workflow optimization portal I designed using  
+Microsoft Teams, Planner, and SharePoint.  
+It demonstrates how tasks, documents, and communication are organized into a unified productivity system.
+
+### 📁 Portal Directory Structure
+
+![Portal Architecture](画像URLをここに入れる)
+
+**Key Components:**
+- **assets** — Shared resources, templates, and visual materials  
+- **inbound** — Incoming tasks, requests, and documentation  
+- **outbound** — Deliverables, processed outputs, and finalized materials  
+- **workflow** — Process logic, routing rules, and operational guidelines  
+- **document-library.md** — Centralized documentation index  
+- **home.md** — Portal landing page  
+- **README.md** — System overview and usage instructions
+
+This structure supports:
+- Clear task routing  
+- Centralized documentation  
+- Cross-team visibility  
+- Localization-ready content management  
+
 
 ## 📚 Featured Projects & Achievements
 
