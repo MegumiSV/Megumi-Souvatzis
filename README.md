@@ -22,7 +22,7 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 ## 🗂️ Study Abroad Portal Structure
 
 This diagram represents the architecture of the study abroad workflow portal I designed.  
-It visualizes how outbound, inbound, workflow, and documentation systems connect to support students and staff.
+used to visualize outbound, inbound, workflow, and documentation systems connect to support students and staff.
 
 ![Study Abroad Portal Structure](Structure.png)
 
