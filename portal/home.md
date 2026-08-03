@@ -74,7 +74,5 @@ If you have questions or need assistance, please contact the International Offic
 
 ## 📞 Contact
 
-International Office  
-Email: international-office@example.edu  
 Office Hours: Monday–Friday  
-Location: International Center, Main Campus
+Location: Main Campus
