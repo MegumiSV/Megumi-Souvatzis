@@ -40,23 +40,23 @@ For international students arriving in Japan.
 
 ### 📘 Inbound Overview  
 Arrival preparation, campus resources, and support  
-→ /portal/inbound/overview.md
+[Inbound Overview](/portal/inbound/overview.md).
 
 ### 🧭 Pre‑Arrival Guide  
 Visa, COE, insurance, and arrival steps  
-→ /portal/inbound/pre-arrival-guide.md
+[Pre‑Arrival Guide](/portal/inbound/pre-arrival-guide.md).
 
 ### 📄 Required Documents  
 Visa documents, COE, acceptance letter, insurance  
-→ /portal/inbound/required-documents.md
+[Required Documents](/portal/inbound/required-documents.md).
 
 ### 🏠 Housing & Arrival Support  
 Dormitories, private housing, move‑in procedures  
-→ /portal/inbound/housing-arrival.md
+[Housing & Arrival Support](/portal/inbound/housing-arrival.md).
 
 ### 🎓 Orientation & Campus Life  
 Orientation schedule, campus resources, student life  
-→ /portal/inbound/orientation-campuslife.md
+[Orientation & Campus Life](/portal/inbound/orientation-campuslife.md).
 
 ---
 
