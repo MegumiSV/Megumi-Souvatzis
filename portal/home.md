@@ -12,27 +12,27 @@ For students departing from our university to study abroad.
 
 ### 📘 Outbound Overview  
 General guidance, preparation steps, and program structure  
-→ `/portal/outbound/overview.md`
+→ /portal/outbound/overview.md
 
 ### 🧭 Pre‑Departure Guide  
 What to do before leaving Japan  
-→ `outbound/pre-departure-guide.md`
+→ /portal/outbound/pre-departure-guide.md
 
 ### 📄 Required Documents  
 Pledge form, insurance, flight tickets, emergency contacts  
-→ `outbound/required-documents.md`
+→ /portal/outbound/required-documents.md
 
 ### 🛡 Insurance Information  
 Required coverage and submission instructions  
-→ `outbound/insurance-info.md`
+→ /portal/outbound/insurance-info.md
 
 ### 🛫 Flight Ticket Submission  
 How to submit your itinerary  
-→ `outbound/flight-ticket-submission.md`
+→ /portal/outbound/flight-ticket-submission.md
 
 ### 🆘 Emergency Contacts  
 Primary, secondary, and local contact requirements  
-→ `outbound/emergency-contacts.md`
+→ /portal/outbound/emergency-contacts.md
 
 ---
 
@@ -41,23 +41,23 @@ For international students arriving in Japan.
 
 ### 📘 Inbound Overview  
 Arrival preparation, campus resources, and support  
-→ `inbound/overview.md`
+→ /portal/inbound/overview.md
 
 ### 🧭 Pre‑Arrival Guide  
 Visa, COE, insurance, and arrival steps  
-→ `inbound/pre-arrival-guide.md`
+→ /portal/inbound/pre-arrival-guide.md
 
 ### 📄 Required Documents  
 Visa documents, COE, acceptance letter, insurance  
-→ `inbound/required-documents.md`
+→ /portal/inbound/required-documents.md
 
 ### 🏠 Housing & Arrival Support  
 Dormitories, private housing, move‑in procedures  
-→ `inbound/housing-arrival.md`
+→ /portal/inbound/housing-arrival.md
 
 ### 🎓 Orientation & Campus Life  
 Orientation schedule, campus resources, student life  
-→ `inbound/orientation-campuslife.md`
+→ /portal/inbound/orientation-campuslife.md
 
 ---
 
