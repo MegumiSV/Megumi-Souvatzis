@@ -12,7 +12,7 @@ For students departing from our university to study abroad.
 
 ### 📘 Outbound Overview  
 General guidance, preparation steps, and program structure  
-→ `outbound/overview.md`
+→ `/portal/outbound/overview.md`
 
 ### 🧭 Pre‑Departure Guide  
 What to do before leaving Japan  
