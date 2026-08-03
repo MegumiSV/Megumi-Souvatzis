@@ -65,7 +65,7 @@ It demonstrates how tasks, documents, and communication are organized into a uni
 
 ### 📁 Portal Directory Structure
 
-![Portal Architecture](画像URLをここに入れる)
+![Study Abroad Portal Structure](Structure.png)
 
 **Key Components:**
 - **assets** — Shared resources, templates, and visual materials  
