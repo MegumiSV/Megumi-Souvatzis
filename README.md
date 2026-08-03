@@ -19,7 +19,13 @@ I help organizations communicate clearly across languages and cultures through *
 
 I also build **workflow optimization systems** using Microsoft Teams, Planner, and custom operational portals—improving project visibility, reducing communication gaps, and increasing overall team efficiency.
 
----
+## 🗂️ Study Abroad Portal Structure
+
+This diagram represents the architecture of the study abroad workflow portal I designed.  
+It visualizes how outbound, inbound, workflow, and documentation systems connect to support students and staff.
+
+![Study Abroad Portal Structure](Structure.png)
+
 
 ## 🧩 Professional Summary
 
@@ -62,10 +68,6 @@ I also build **workflow optimization systems** using Microsoft Teams, Planner, a
 This section showcases the architecture of the workflow optimization portal I designed using  
 Microsoft Teams, Planner, and SharePoint.  
 It demonstrates how tasks, documents, and communication are organized into a unified productivity system.
-
-### 📁 Portal Directory Structure
-
-![Study Abroad Portal Structure](Structure.png)
 
 **Key Components:**
 - **assets** — Shared resources, templates, and visual materials  
