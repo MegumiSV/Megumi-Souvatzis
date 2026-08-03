@@ -16,24 +16,23 @@ General guidance, preparation steps, and program structure
 
 ### 🧭 Pre‑Departure Guide  
 What to do before leaving Japan  
-→ /portal/outbound/pre-departure-guide.md
+[Pre‑Departure Guide](/portal/outbound/pre-departure-guide.md)
 
 ### 📄 Required Documents  
 Pledge form, insurance, flight tickets, emergency contacts  
-→ /portal/outbound/required-documents.md
+[Required Documents](/portal/outbound/required-documents.md)
 
 ### 🛡 Insurance Information  
 Required coverage and submission instructions  
-→ /portal/outbound/insurance-info.md
+[Insurance Information](/portal/outbound/insurance-info.md)
 
 ### 🛫 Flight Ticket Submission  
 How to submit your itinerary  
-→ /portal/outbound/flight-ticket-submission.md
+[Flight Ticket Submission](/portal/outbound/flight-ticket-submission.md)
 
 ### 🆘 Emergency Contacts  
 Primary, secondary, and local contact requirements  
-→ /portal/outbound/emergency-contacts.md
-
+[Emergency Contacts](/portal/outbound/emergency-contacts.md)
 ---
 
 ## 🌏 Inbound Students  
