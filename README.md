@@ -1,5 +1,4 @@
-![Portfolio Thumbnail](https://raw.githubusercontent.com/MegumiSV/Megumi-Souvatzis/68731ee445092ae5623e4a864d700ba947ebf039/Beige%20Elegant%20Aesthetic%20Minimalist%20LinkedIn%20Article%20Cover%20Image.jpg)
-
+![Portfolio Thumbnail](images/header-banner.jpg)
 
 # Hi there, I'm Megumi 👋
 ### 🌐 Japanese–English Localization Specialist | Translator  
