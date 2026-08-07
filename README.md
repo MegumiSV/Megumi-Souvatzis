@@ -1,4 +1,4 @@
-![Portfolio Thumbnail](images/header-banner.jpg)
+![Portfolio Thumbnail](https://raw.githubusercontent.com/MegumiSV/Megumi-Souvatzis/main/images/header-banner.jpg)
 
 # Hi there, I'm Megumi 👋
 ### 🌐 Japanese–English Localization Specialist | Translator  
